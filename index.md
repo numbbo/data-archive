@@ -17,8 +17,14 @@ Besides providing the official archives from numerical benchmarking experiments,
 * [bbob-largescale]({{ site.baseurl }}{% link bbob-largescale.md %}): large-scale version of the 24 bbob functions (dimension up to 640)
 * [bbob-mixint]({{ site.baseurl }}{% link bbob-mixint.md %}): mixed-integer versions of the 24 bbob functions
 
-
-
-
+<h2>Related links</h2>
+<ul><li><a href="https://numbbo.github.io/ppdata-archive">
+    postprocessed data of these archives for browsing</a>
+</li><li><a href="https://github.com/numbbo/coco/blob/master/howtos/publish-a-dataset-howto.md">
+  how to submit a data set</a>
+</li><li>
+  <a href="https://github.com/numbbo/coco/blob/master/code-postprocessing/cocopp/archiving.py">
+  how to create and use COCO data archives with the <tt>cocopp.archiving</tt> Python module</a>
+</li></ul>
 
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}"/>
