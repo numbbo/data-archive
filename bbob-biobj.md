@@ -61,6 +61,8 @@ To sort the table, simply click on the table header of the corresponding column.
 | biobj-029 | N-III-111-platypus | 2019 | Brockhoff and Tušar        | [data]({{ page.dataDir }}2019/N-III-111-platypus_Brockhoff_bbob-biobj.tgz)   | [BBOB-2019 paper](https://hal.inria.fr/hal-02171136/file/templateBIOBJmultiple-authorversion-compressed.pdf)            |
 | biobj-030 | NSGA-II-platypus   | 2019 | Brockhoff and Tušar        | [data]({{ page.dataDir }}2019/NSGA-II-platypus_Brockhoff_bbob-biobj.tgz)     | [BBOB-2019 paper](https://hal.inria.fr/hal-02171136/file/templateBIOBJmultiple-authorversion-compressed.pdf)            |
 | biobj-031 | SPEA2-platypus     | 2019 | Brockhoff and Tušar        | [data]({{ page.dataDir }}2019/SPEA2-platypus_Brockhoff_bbob-biobj.tgz)       | [BBOB-2019 paper](https://hal.inria.fr/hal-02171136/file/templateBIOBJmultiple-authorversion-compressed.pdf)            |
+| biobj-032 | DMS                | 2021 | Brockhoff et al.           | [data]({{ page.dataDir }}2021/DMS_Brockhoff_bbob-biobj.tgz)                  | [BBOB-2021 paper](https://hal.inria.fr/hal-03284476/document)            |
+| biobj-033 | MultiGLODS         | 2021 | Brockhoff et al.           | [data]({{ page.dataDir }}2021/MultiGLODS_Brockhoff_bbob-biobj.tgz)           | [BBOB-2021 paper](https://hal.inria.fr/hal-03284476/document)            |
 
 
 
