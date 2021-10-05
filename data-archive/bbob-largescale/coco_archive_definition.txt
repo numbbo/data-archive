@@ -1,0 +1,13 @@
+[
+('2019/CMA_Varelas_largescale.tgz', '8ef4cf201a844fc397b53d4c9bd9dec428cffb4b260443c03be95532dc9903f8', 22616), 
+('2019/LBFGS_Varelas_largescale.tgz', 'fb94e0965ff8e04964d4275cbeb329f5f970165b011e7ab9f1a937596c36ea4e', 15452), 
+('2019/LMCMA14_Varelas_largescale.tgz', '3e5a0df198cf11c8f5623224709f125d57665a4b2ca8a07c4ed66294d740e328', 26947), 
+('2019/LMCMA17_Varelas_largescale.tgz', 'b62942e45c10f9696ade4a92804c6bd1dc16690d0cbb73f2687adc0d1000b756', 28854), 
+('2019/R10ES_Varelas_largescale.tgz', '6149880c63d486cf668870a7cd870df5905de110d6a520b0c65bc4f783cd146e', 26790), 
+('2019/R2ES_Varelas_largescale.tgz', 'df05335299ea467f7dd5fcd81086d83513374a9680e5c41987a6ff5c22e6ffe7', 26567), 
+('2019/V2D-CMA_Varelas_largescale.tgz', '51c970f08d9400daa0c7a9091716c619c4b8269ed1f0ac970a5ed3701c19e984', 26275), 
+('2019/VD-CMA_Varelas_largescale.tgz', '20a80db18f69252eea4b80a473a15bb06475dd6e89ecd51b4def920478f13b27', 24119), 
+('2019/VkD-CMA_Varelas_largescale.tgz', '2a779548bb39cf7ea47c71c0575c68d14fe43cf6898274cf5f98317699ec13f2', 28123), 
+('2019/m2DLBFGS_Varelas_largescale.tgz', '29f05d978483f0ef9799e94ed2f33c4102cd3da672d71a2205854da2aae9a85f', 13568), 
+('2019/sepCMA_Varelas_largescale.tgz', '529e42c9d1e62bd1d7b612d8331bbe2d46c6f655c4249a76545f36ca28c90a1e', 22527), 
+('_url_', 'http://numbbo.github.io/data-archive/bbob-largescale')]
