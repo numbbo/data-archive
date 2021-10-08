@@ -3,17 +3,11 @@ layout: default
 permalink: /bbob-biobj/
 nav_order: 4
 title: bbob-biobj data archive
-dataDir: "http://coco.gforge.inria.fr/data-archive/bbob-biobj/"
+dataDir: "https://numbbo.github.io/data-archive/data-archive/bbob-biobj/"
 ---
 
 # Algorithm data sets for the bbob-biobj test suite  #
 ---
-
-<!-- TODO: move towards the following link when GForge gets turned off:
-
-dataDir: "https://raw.githubusercontent.com/numbbo/data-archive/gh-pages/bbob-biobj/"
-
--->
 
 
 <!-- Make tables sortable -->

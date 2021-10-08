@@ -10,4 +10,4 @@
 ('2019/VkD-CMA_Varelas_largescale.tgz', '2a779548bb39cf7ea47c71c0575c68d14fe43cf6898274cf5f98317699ec13f2', 28123), 
 ('2019/m2DLBFGS_Varelas_largescale.tgz', '29f05d978483f0ef9799e94ed2f33c4102cd3da672d71a2205854da2aae9a85f', 13568), 
 ('2019/sepCMA_Varelas_largescale.tgz', '529e42c9d1e62bd1d7b612d8331bbe2d46c6f655c4249a76545f36ca28c90a1e', 22527), 
-('_url_', 'http://numbbo.github.io/data-archive/bbob-largescale')]
+('_url_', 'http://numbbo.github.io/data-archive/data-archive/bbob-largescale')]

@@ -3,18 +3,12 @@ layout: default
 permalink: /bbob-noisy/
 nav_order: 3
 title: bbob-noisy data archive
-dataDir: "http://coco.gforge.inria.fr/data-archive/bbob-noisy/"
+dataDir: "https://numbbo.github.io/data-archive/data-archive/bbob-noisy/"
 ---
 
 # Algorithm data sets for the bbob-noisy test suite  #
 ---
 
-
-<!-- TODO: move towards the following link when GForge gets turned off:
-
-dataDir: "https://raw.githubusercontent.com/numbbo/data-archive/gh-pages/bbob-noisy/"
-
--->
 
 
 <!-- Make tables sortable -->

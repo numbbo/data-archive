@@ -3,7 +3,7 @@ layout: default
 permalink: /bbob-largescale/
 nav_order: 5
 title: bbob-largescale data archive
-dataDir: "https://raw.githubusercontent.com/numbbo/data-archive/gh-pages/bbob-largescale/"
+dataDir: "https://numbbo.github.io/data-archive/data-archive/bbob-largescale/"
 ---
 
 # Algorithm data sets for the bbob-largescale test suite  #

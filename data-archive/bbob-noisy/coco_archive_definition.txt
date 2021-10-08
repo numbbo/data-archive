@@ -44,4 +44,4 @@
 ('2016/PSAaLmD-CMA-ES_Nishida_bbob-noisy.tgz', 'eabf69f263f9fde631945203936fd26cfd4a52157608e14523462218e1c2814a', 13269), 
 ('2016/PSAaSmC-CMA-ES_Nishida_bbob-noisy.tgz', '190c2bb2b930fe67a273981f47eed29f6bba14903506cc459d01562be15cc58e', 13316), 
 ('2016/PSAaSmD-CMA-ES_Nishida_bbob-noisy.tgz', '5e1f5a7ed1d96120ff054bab78dd8407cfc3d09972a1bc3f56ea20a4f0d8cb9d', 13126), 
-('_url_', 'http://numbbo.github.fr/data-archive/bbob-noisy')]
+('_url_', 'http://numbbo.github.fr/data-archive/data-archive/bbob-noisy')]
