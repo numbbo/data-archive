@@ -1,2 +1,2 @@
-['http://lq-cma.gforge.inria.fr/data-archives/lq-gecco2019',
+['http://cma-es.github.io/lq-cma/data-archives/lq-gecco2019',
 ]
