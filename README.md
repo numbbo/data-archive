@@ -1,2 +1,2 @@
 # COCO data-archive
-Here, you will find the official data archive of COCO for versions larger or equal than 3.0.
+This provides the "official" data archive of COCO from versions 3.0 under https://numbbo.github.io/data-archive/
