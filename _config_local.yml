@@ -7,7 +7,7 @@ description: >-
 github_repo: "numbbo/data-archive"
 
 # Build settings
-remote_theme: pmarsceill/just-the-docs
+theme: just-the-docs
 # search_enabled: false # Use this to disable search
 
 plugins:
