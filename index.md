@@ -16,6 +16,8 @@ Besides providing the official archives from numerical benchmarking experiments,
 * [bbob-biobj]({{ site.baseurl }}{% link bbob-biobj.md %}): 55 bi-objective functions
 * [bbob-largescale]({{ site.baseurl }}{% link bbob-largescale.md %}): large-scale version of the 24 bbob functions (dimension up to 640)
 * [bbob-mixint]({{ site.baseurl }}{% link bbob-mixint.md %}): mixed-integer versions of the 24 bbob functions
+* [bbob-constrained]({{ site.baseurl }}{% link bbob-constrained.md %}): 54 constrained functions with varying number of (non-linear) constraints
+
 
 <h2>Related links</h2>
 <ul><li><a href="https://numbbo.github.io/ppdata-archive">
