@@ -260,7 +260,7 @@
 ('bbob-biobj/2019/COMO-316_dufosse_bbob-biobj.tgz', 'f01b6cf995563d44931678ed97a52ea76d97e43ee3d3d2a977f4ba1fbd5fbeeb', 14409), 
 ('bbob-biobj/2019/COMO-32_dufosse_bbob-biobj.tgz', 'd7dd27190b57f2cc9877f688daba35d138f998f7060a6e8b8cfb3bf74b9c5a79', 11509), 
 ('bbob-biobj/2019/COMO-3_dufosse_bbob-biobj.tgz', '79a4377188f6599f8370fe12ab24e1589d3f7de4a524958471364360a5d3e4db', 6593), 
-('bbob-biobj/2019/GDE3-platypus_Brockhoff_bbob-biobj.tgz', 'ed695f940c64f38c250d4412b00beeb1c3c372727cb927c5744b39cd94364c0b', 20902), 
+('bbob-biobj/2019/GDE3-platypus_Brockhoff_bbob-biobj.tgz', 'efa423f1c1c580d32aedc471370bf39fc6b2b03f5d2dd5e6b1e16ae00c440096', 20890), 
 ('bbob-biobj/2019/IBEA-platypus_Brockhoff_bbob-biobj.tgz', '81143729a83f965b4151ec720ee6927f454c20cdf1472e9bc5b654281b37d2c6', 15288), 
 ('bbob-biobj/2019/MO-CMA-ES-10-autoref_Dufosse_bbob-biobj.tgz', '256d24194bb783f4d2cc0465c149d011ba9caf577bf1bfab9fa610b300517bf6', 7280), 
 ('bbob-biobj/2019/MO-CMA-ES-100-autoref_Dufosse_bbob-biobj.tgz', 'e0a2a12a434fcc371f65111d419c33e15cf7e518d5483ea0a7eb9234f2b5438c', 10741), 
