@@ -28,7 +28,7 @@
 ('2019/MO-CMA-ES-10-autoref_Dufosse_bbob-biobj.tgz', '256d24194bb783f4d2cc0465c149d011ba9caf577bf1bfab9fa610b300517bf6', 7280), 
 ('2019/MO-CMA-ES-100-autoref_Dufosse_bbob-biobj.tgz', 'e0a2a12a434fcc371f65111d419c33e15cf7e518d5483ea0a7eb9234f2b5438c', 10741), 
 ('2019/MO-CMA-ES-32-autoref_Dufosse_bbob-biobj.tgz', 'df1e107bee5c11517a7a8077760454e5c37199322bd4ef52b0ecc947a20c6e61', 9089), 
-('2019/MOEAD-platypus_Brockhoff_bbob-biobj.tgz', '4602e55c764811fd0846013ad3e7e96b05db6a11cab3338b4a4eee7db4fb1165', 9471), 
+('2019/MOEAD-platypus_Brockhoff_bbob-biobj.tgz', 'd45b1e01982905757e644942dd56b622fe8e6127a90a63bec4f2e1bbea40b118', 9137), 
 ('2019/N-III-11-platypus_Brockhoff_bbob-biobj.tgz', '021c99dd4171f4af0cd5048c47f3c040b2e704a2bc66f1e9b2b92b0066ab3f36', 8362), 
 ('2019/N-III-111-platypus_Brockhoff_bbob-biobj.tgz', '4d34ef0b601a679dc12b9d32e8074bc51f63aefbcb008f7b48f369a67515afd4', 8875), 
 ('2019/NSGA-II-platypus_Brockhoff_bbob-biobj.tgz', '4cf628a60ebc1ed148908bb17071c1c62fc934a4a5c905dfaa595eb190dac26e', 9273), 
