@@ -2,4 +2,5 @@
 ('2019-gecco-benchmark/CMA-ES-pycma.tgz', '0d8e7f2c77f4e43176bc9424ee8f9a0bfe8e7f66fabc95b15ea7a56ad8b1d667', 38514), 
 ('2019-gecco-benchmark/DE-scipy.tgz', '494483b1bce9185f8977ce9abf6f6eac3a660efd6fa09321e305dfb79296cd18', 35401), 
 ('2019-gecco-benchmark/RANDOMSEARCH.tgz', '14b237093fd1f393871c578b6b28b6f9a6c3d8dc8921e3bdb024b3cc7cdd287d', 26006), 
-('2019-gecco-benchmark/TPE-hyperopt.tgz', '34fede46a00c8adef4c388565c3b759c07a7d7d83366e115632b407764e64bf6', 19633)]
+('2019-gecco-benchmark/TPE-hyperopt.tgz', '34fede46a00c8adef4c388565c3b759c07a7d7d83366e115632b407764e64bf6', 19633), 
+('2022/CMA-ESwM_Hamano.tgz', 'caaf35f552822bc8376716c6af9f41aaceeebc1e63fece386fa12929c53338ca', 16406)]
