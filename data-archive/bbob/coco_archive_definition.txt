@@ -82,7 +82,7 @@
 ('2012/NIPOPaCMA_loshchilov_noiseless.tgz', '1fcf9638981026da0becdd1c0a1cfedd27517dff813c78be8e3515f91301b448', 10093), 
 ('2012/PSO-BFGS_voglis_noiseless.tgz', 'ccde8376bfbdf64295f15e10a4b36e24670c08d2aa74afd12a090e3427a44972', 9595), 
 ('2012/SNES_schaul_noiseless.tgz', 'db98a85e573337777fc4a2eeb799472d43922b3ffee06037304b6cbc7507c804', 15473), 
-('2012/xNES_schaul_noiseless.tgz', 'f9c81221d475fae06cc9e51d76a6c39f63fb0db67e11923ea2c43532d0a80e36', 11216), 
+('2012/xNES_schaul_noiseless.tgz', '12202dbea37cdba08c490b27e8753331369c41380351047defc3ec82a6ded640', 11214), 
 ('2012/xNESas_schaul_noiseless.tgz', '5bb47f7295c6f8313a46e41af552bec14e0cafed6214ceda14fc88470f016054', 13733), 
 ('2013/BIPOP-aCMA-STEP_loshchilov_noiseless.tgz', 'daf898ca724e6bddb18153a61d8725f4ae5576a7cf484978d086ea68ffb7d5e0', 8958), 
 ('2013/BIPOP-saACM-k_loshchilov_noiseless.tgz', '46914c801af2c87e9bb2a3f6309e8227f28d7b8f39108c32ca83793bf1d81452', 9536), 
