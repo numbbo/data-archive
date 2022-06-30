@@ -1,2 +1,10 @@
 [
-('2022/RandomSearch-5_Dufosse.tgz', 'fa773c3f0208b8ecb2e242f80a4571dffdec8a3796344bb47461c57131bec4d6', 25751)]
+('2022/AL1-CMA-ES_Dufosse.tgz', '55b92a2d19b8c1027f1d4686b67e4687af0d135f30fab54d2b9f54ce21b37d5f', 49138), 
+('2022/AL2-CMA-ES_Dufosse.tgz', '450f7b2ee86e159c809161ceb0c6348d7dd9faf16e49b91d3581e7bb7dd31a84', 43001), 
+('2022/AL3-CMA-ES_Dufosse.tgz', '276f6a6f25060e3426c68503cbf7a0fb9ff55460feb78010bd5c03655b741b0f', 51039), 
+('2022/AL4-CMA-ES_Dufosse.tgz', 'b5f4b9a70aa741ea1b283431e8c503aa2e26a8e445230259d738e86043f04950', 52490), 
+('2022/BPepsMAg_Hellwig.tgz', '6f4a7f0b5fc4ba96fcd06692e3be28bf7a951c7db42cec52dfc1951e7ccd8f65', 50806), 
+('2022/COBYLA_Dufosse.tgz', 'd6161a6805bde5b83d92bc2a21e0e08c4475e3e8920bf9cd5cb11a79b5cea816', 19006), 
+('2022/RandomSearch-5_Dufosse.tgz', 'fa773c3f0208b8ecb2e242f80a4571dffdec8a3796344bb47461c57131bec4d6', 25751), 
+('2022/epsMAg-Hellwig.tgz', '477b74e4fdb6c4faa821513e5d19a8ab9330ed7702a1ec78d550c3712b14c36f', 36561), 
+('2022/fmincon_Hellwig.tgz', 'f070cd845f2a5d92b921fe8ba567098b27e7e0106ef99bb4e90b9ad68b40dbc8', 13456)]
