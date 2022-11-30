@@ -3,12 +3,11 @@ layout: default
 permalink: /bbob-mixint/
 nav_order: 6
 title: bbob-mixint data archive
+dataDir: "https://numbbo.github.io/data-archive/data-archive/bbob-mixint/"
 ---
 
 # Algorithm data sets for the bbob-mixint test suite  #
 ---
-
-
 
 
 <!-- Make tables sortable -->
