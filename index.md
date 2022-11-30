@@ -9,7 +9,7 @@ title: Home
 ---
 Welcome to the website of the benchmarking data archives of the [COCO](https://github.com/numbbo/coco) (Comparing Continuous Optimizers) platform. 
 
-Besides providing the official archives from numerical benchmarking experiments, run on the COCO platform and available through its [cocopp Python module](https://pypi.org/project/cocopp), this website also provides lists of these official data sets with additional information like authors, links to papers, source code etc. Right now, data sets for the following test suites are available: 
+This website provides the official benchmarking data archives from numerical benchmarking experiments run on the COCO platform. For each test suite we provide a listing of the official data sets with additional information like authors, links to papers, source code etc. Data sets for the following test suites are available: 
 
 * [bbob]({{ site.baseurl }}{% link bbob.md %}): 24 single-objective noiseless functions
 * [bbob-noisy]({{ site.baseurl }}{% link bbob-noisy.md %}): 24 single-objective noisy functions
@@ -18,6 +18,7 @@ Besides providing the official archives from numerical benchmarking experiments,
 * [bbob-mixint]({{ site.baseurl }}{% link bbob-mixint.md %}): mixed-integer versions of the 24 bbob functions
 * [bbob-constrained]({{ site.baseurl }}{% link bbob-constrained.md %}): 54 constrained functions with varying number of (non-linear) constraints
 
+These data can be directly used "by name" through the [cocopp Python module](https://pypi.org/project/cocopp).
 
 <h2>Related links</h2>
 <ul><li><a href="https://numbbo.github.io/ppdata-archive">
