@@ -60,7 +60,8 @@ To sort the table, simply click on the table header of the corresponding column.
 | biobj-034 | K-RVEA             | 2022 | Tanabe et al.              | [data]({{ page.dataDir }}2022/K-RVEA_Tanabe.tgz)                             | continuous submission: Kriging-assisted reference vector guided evolutionary algorithm [GECCO-2022 paper](https://arxiv.org/pdf/2203.15292.pdf)       |
 | biobj-035 | MOTPE              | 2022 | Tanabe et al.              | [data]({{ page.dataDir }}2022/MOTPE_Tanabe.tgz)                              | continuous submission: optuna implementation of the Multiobjective Tree Parzen Estimator [GECCO-2022 paper](https://arxiv.org/pdf/2203.15292.pdf)     |
 | biobj-036 | TPB                | 2022 | Tanabe et al.              | [data]({{ page.dataDir }}2022/TPB_Tanabe.tgz)                                | continuous submission: two-phase algorithm with a Bézier simplex-based interpolation method [GECCO-2022 paper](https://arxiv.org/pdf/2203.15292.pdf)  |
-
+| biobj-037 | Borg-adaptive      | 2023 | Brockhoff et al.           | [data]({{ page.dataDir }}2023/Borg-adaptive_Brockhoff.tgz)                   | Borg-MOEA with adaptive epsilon                                                                                                                       |
+| biobj-038 | Borg-eps-1e-4      | 2023 | Brockhoff et al.           | [data]({{ page.dataDir }}2023/Borg-eps-1e-4_Brockhoff.tgz)                   | Borg-MOEA with fixed epsilon (= 10**(-4))                                                                                                             |
 
 
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}"/>

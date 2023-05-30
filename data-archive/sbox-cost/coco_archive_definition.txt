@@ -1,0 +1,3 @@
+[
+('2023/cma-bp-sboxcost-Brockhoff.tgz', '566ccbe7d33329a5fc7972aa3e73e5ca80c4ee7a01d6c83fdd3d114b6a05b667', 13926), 
+('2023/cma-bt-sboxcost-Brockhoff.tgz', 'd30249fb89ee6abf5b7809a9448afb1fb12b19e115632b607a212840fe8c211c', 14815)]
