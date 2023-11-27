@@ -2,7 +2,7 @@
 layout: default
 permalink: /bbob-constrained/
 nav_order: 7
-title: bbob-constrained data archive
+title: bbob-constrained
 dataDir: "https://numbbo.github.io/data-archive/data-archive/bbob-constrained/"
 ---
 
