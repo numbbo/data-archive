@@ -2,7 +2,7 @@
 layout: default
 permalink: /bbob-mixint/
 nav_order: 6
-title: bbob-mixint data archive
+title: bbob-mixint
 dataDir: "https://numbbo.github.io/data-archive/data-archive/bbob-mixint/"
 ---
 
