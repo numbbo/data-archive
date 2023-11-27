@@ -2,7 +2,7 @@
 layout: default
 permalink: /bbob-noisy/
 nav_order: 3
-title: bbob-noisy data archive
+title: bbob-noisy
 dataDir: "https://numbbo.github.io/data-archive/data-archive/bbob-noisy/"
 ---
 
