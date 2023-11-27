@@ -2,7 +2,7 @@
 layout: default
 permalink: /bbob-biobj/
 nav_order: 4
-title: bbob-biobj data archive
+title: bbob-biobj
 dataDir: "https://numbbo.github.io/data-archive/data-archive/bbob-biobj/"
 ---
 
