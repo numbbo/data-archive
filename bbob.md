@@ -2,7 +2,7 @@
 layout: default
 permalink: /bbob/
 nav_order: 2
-title: bbob data archive
+title: bbob
 dataDir: "https://numbbo.github.io/data-archive/data-archive/bbob/"
 gecco09paperDir: "http://sci2s.ugr.es/sites/default/files/files/TematicWebSites/EAMHCO/contributionsGECCO09"
 paperDir2013: "https://numbbo.github.io/gforge/data/media/pdf2013/"
