@@ -23,8 +23,8 @@ To sort the table, simply click on the table header of the corresponding column.
 {:.js-sort-table}
 |       Number        |   Algorithm Name  | Year |   Author(s)    |                        link to data                                    | related PDFs, source code, and remarks                                                                         |
 |:-------------------:|:------------------|:----:|:--------------:|:----------------------------------------------------------------------:|----------------------------------------------------------------------------------------------------------------|
-| sbox-cost-000       | CMA-bp-sboxcost   | 2023 | Brockhoff      | [data]({{ page.dataDir }}/2023/CMA-bp-sboxcost_Brockhoff.tgz)          | SBOX-COST workshop paper                                                                                       |
-| sbox-cost-001       | CMA-bt-sboxcost   | 2023 | Brockhoff      | [data]({{ page.dataDir }}/2023/CMA-bt-sboxcost_Brockhoff.tgz)          | SBOX-COST workshop paper                                                                                       |
+| sbox-cost-000       | CMA-bp-sboxcost   | 2023 | Brockhoff      | [data]({{ page.dataDir }}2023/cma-bp-sboxcost-Brockhoff.tgz)          | SBOX-COST workshop paper                                                                                       |
+| sbox-cost-001       | CMA-bt-sboxcost   | 2023 | Brockhoff      | [data]({{ page.dataDir }}2023/cma-bt-sboxcost_Brockhoff.tgz)          | SBOX-COST workshop paper                                                                                       |
 
 
 
