@@ -5,8 +5,8 @@ description: >-
 #url: "numbbo.github.io"
 #baseurl: "/data-archive" 
 github_repo: "numbbo/data-archive"
+repository: "numbbo/data-archive" # FIXME: OME: Not sure why both are needed...
 
-# Build settings
 remote_theme: pmarsceill/just-the-docs
 # search_enabled: false # Use this to disable search
 
@@ -19,6 +19,7 @@ kramdown:
 # Exclude from processing.
 # The following items will not be processed, by default.
 exclude:
+  - vendor/
   - .jekyll-cache/
   - Gemfile
   - Gemfile.lock
