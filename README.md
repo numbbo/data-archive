@@ -1,2 +1,2 @@
 # COCO data-archive
-This provides the "official" data archive of COCO from versions 3.0 under https://numbbo.github.io/data-archive/
+This repository provides the "official" data archive of COCO for the [postprocessing module](https://pypi.org/project/cocopp/) as well as for the [data archive webpage](https://numbbo.it/data-archive/),
