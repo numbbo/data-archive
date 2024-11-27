@@ -34,4 +34,7 @@ aux_links:
     - "http://numbbo.github.io/ppdata-archive/"
   "COCO Home":
     - "http://numbbo.github.io/coco/"
+    
+gems:
+  - jekyll-redirect-from
   
