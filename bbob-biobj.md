@@ -1,4 +1,4 @@
 ---
 permalink: /bbob-biobj
-redirect_to: https://numbbo.it/data-archive/bbob-biobj.html
+redirect_to: https://numbbo.it/testsuites/bbob-biobj/data-archive.html
 ---

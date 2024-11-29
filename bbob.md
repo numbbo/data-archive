@@ -1,4 +1,4 @@
 ---
 permalink: /bbob/
-redirect_to: https://numbbo.it/data-archive/bbob.html
+redirect_to: https://numbbo.it/testsuites/bbob/data-archive.html
 ---
