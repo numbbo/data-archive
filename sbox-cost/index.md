@@ -1,3 +1,3 @@
 ---
-redirect_to: https://numbbo.it/data-archive/bbob-boxed.html
+redirect_to: https://numbbo.it/testsuites/bbob-boxed/data-archive.html
 ---

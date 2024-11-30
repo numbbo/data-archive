@@ -1,3 +1,3 @@
 ---
-redirect_to: https://numbbo.it/data-archive/bbob-largescale.html
+redirect_to: https://numbbo.it/testsuites/bbob-largescale/data-archive.html
 ---

@@ -1,3 +1,3 @@
 ---
-redirect_to: https://numbbo.it/data-archive/bbob-mixint.html
+redirect_to: https://numbbo.it/testsuites/bbob-mixint/data-archive.html
 ---
