@@ -1,1 +1,4 @@
-[ ] 
+[
+('2023/cma-bp-boxed_Brockhoff.zip', '70c09667e96703b82b3b2060419e17922ff0d9139bb5a5966be8b5b64e700bd1', 14554), 
+('2023/cma-bt-boxed_Brockhoff.zip', 'ef53e3108719f76a42e06592777e27180ac9c2f1056907a8edf89afd4d8afde8', 15449), 
+('2024/RANDOMSEARCH-5_Brockhoff.zip', 'a8483f734d0df3f26f31409cf6b54cd5e0513991036a2a6719462fbfde9883cb', 10267)]
