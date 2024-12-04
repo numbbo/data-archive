@@ -2,7 +2,7 @@
 
 There are two ways to make data easily accessible to the community:
 
-- propose inclusion of your data into [`cocopp.archives`](https://numbbo.it/data-archive), or
+- propose inclusion of your data into [`cocopp.archives`](http://coco-platform.org/data-archive), or
 - host your own COCO archive with your data.
 
 In both cases, first, the data need to be prepared. For this, for each
@@ -33,7 +33,7 @@ or in a preprint available for example on [arXiv](https://arxiv.org) or
 For this:
 
   3. Upload the above data zipfile(s) to a file sharing site or to an accessible URL.
-  4. Ask for the inclusion into [`cocopp.archives`](https://numbbo.it/data-archive).
+  4. Ask for the inclusion into [`cocopp.archives`](http://coco-platform.org/data-archive).
      For this, open an [issue at the data-archive Gitlab repository of COCO](https://github.com/numbbo/data-archive/issues)
      (you need to have a Github account) with
 
@@ -77,7 +77,7 @@ For this:
      Archives can contain other archives as subfolders or,
      the other way around, additional subarchives can be
      created in any archive subfolder. This is how
-     https://numbbo.it/data-archive/ is organized.
+     http://coco-platform.org/data-archive/ is organized.
      <details><summary>Alternative code (from a system shell, click to expand)</summary>
      <tt>python -c "import cocopp; cocopp.archiving.create('elisa_2020')"</tt>
      </details>

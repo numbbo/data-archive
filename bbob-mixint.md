@@ -1,4 +1,4 @@
 ---
 permalink: /bbob-mixint
-redirect_to: https://numbbo.it/testsuites/bbob-mixint/data-archive.html
+redirect_to: http://coco-platform.org/testsuites/bbob-mixint/data-archive.html
 ---

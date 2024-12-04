@@ -1,3 +1,3 @@
 ---
-redirect_to: https://numbbo.it/testsuites/bbob-largescale/data-archive.html
+redirect_to: http://coco-platform.org/testsuites/bbob-largescale/data-archive.html
 ---

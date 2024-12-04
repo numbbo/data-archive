@@ -1,3 +1,3 @@
 ---
-redirect_to: https://numbbo.it/data-archive/
+redirect_to: http://coco-platform.org/data-archive/
 ---

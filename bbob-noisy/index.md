@@ -1,3 +1,3 @@
 ---
-redirect_to: https://numbbo.it/testsuites/bbob-noisy/data-archive.html
+redirect_to: http://coco-platform.org/testsuites/bbob-noisy/data-archive.html
 ---

@@ -9,7 +9,7 @@ assignees: brockho
 
 Hello COCO user!
 
-Here is the right place to submit one or several COCO data sets to the official COCO archive (https://numbbo.it/data-archive/). Please provide the information requested below and submit the issue. Do not hesitate to read about the details in our [How to publish a dataset documentation](https://github.com/numbbo/coco/blob/development/howtos/publish-a-dataset-howto.md).
+Here is the right place to submit one or several COCO data sets to the official COCO archive (http://coco-platform.org/data-archive/). Please provide the information requested below and submit the issue. Do not hesitate to read about the details in our [How to publish a dataset documentation](https://github.com/numbbo/coco/blob/development/howtos/publish-a-dataset-howto.md).
 
 #### Reference
 [Put the full reference (for citations) and a link to the pdf here.]
