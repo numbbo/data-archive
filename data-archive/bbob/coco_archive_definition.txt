@@ -193,8 +193,6 @@
 ('2019/CG-scipy-2019_Varelas.tgz', 'a74acb31688b29ede79e14bcf12c9a2127d6b1094aa9d98e3c0260659b41af9e', 13075), 
 ('2019/COBYLA-scipy-2019_Varelas.tgz', '236fb2ce81ab1d8238ae45a34f63f13a688a359c4002969d756a50aa776fe574', 19446), 
 ('2019/DE-scipy-2019_Varelas.tgz', 'e6bd888442f1b9431dec8ab7b7687527a7f5713778012dd1ac01146364e1c257', 14269), 
-('2019/GNN-CMA-ES_Faury.tgz', 'a0f3431e601a365f5daebf2b16b37b5a53dfd476928a5782bea4bd7ed42ab3a0', 7700), 
-('2019/IPOP-CMA-ES-2019_Faury.tgz', 'f0771ade37c7c907ed51204debf2977d8b0d6bf0cdea175726d143d55843512d', 6095), 
 ('2019/L-BFGS-B-scipy-2019_Varelas.tgz', 'c1361e9e41f037edefb2e99761023c73e81f1bb55c4a9522ebad86c60d3aa151', 10763), 
 ('2019/Nelder-Mead-scipy-2019_Varelas.tgz', '7a4f94cb2ef8cf4f2f51871a4cd333a434291758de97a6a8bdce3035822a3e37', 20200), 
 ('2019/Powell-scipy-2019_Varelas.tgz', '7e6f3ed9c04f6b425cd1f716c8800379987acc15a4697cc928c73cdf72b80c1f', 13835), 
@@ -265,5 +263,7 @@
 ('incomplete/2014/Nelder-Mead-scipy_Baudis.tgz', 'ac49851808e1a044dfae0ab9a142b695640d7bf50a6817a287669b36df0f686c', 6626), 
 ('incomplete/2014/Powell-scipy_Baudis.tgz', '43b125f5ac3a144eeb8b8366d4bffcebc7fd36807e7274313f3d9a07c132d4d0', 5179), 
 ('incomplete/2014/SLSQP-scipy_Baudis.tgz', '9476a299126e0990c3687733f662b333d3f5d430b7a0e102c4545a8171736824', 6516), 
-('incomplete/2014/UNIF-cocopf_Baudis.tgz', '90df907f9abc42ba627190bef0ca30bbf5537bc7bd66d31cc30f09b2805b06d0', 4955)
+('incomplete/2014/UNIF-cocopf_Baudis.tgz', '90df907f9abc42ba627190bef0ca30bbf5537bc7bd66d31cc30f09b2805b06d0', 4955),
+('incomplete/2019/GNN-CMA-ES_Faury.tgz', 'a0f3431e601a365f5daebf2b16b37b5a53dfd476928a5782bea4bd7ed42ab3a0', 7700), 
+('incomplete/2019/IPOP-CMA-ES-2019_Faury.tgz', 'f0771ade37c7c907ed51204debf2977d8b0d6bf0cdea175726d143d55843512d', 6095)
 ]
