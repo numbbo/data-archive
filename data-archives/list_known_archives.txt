@@ -1,2 +1,3 @@
 ['http://cma-es.github.io/lq-cma/data-archives/lq-gecco2019',
+ 'https://steigner.github.io/Benchmarking-PlatEMO-MultiObj-Opti-Algos-on-COCO-Problems/archive_data',
 ]
